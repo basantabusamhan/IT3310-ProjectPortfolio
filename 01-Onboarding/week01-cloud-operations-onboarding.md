@@ -33,6 +33,7 @@ The budget display was identified as delayed by approximately 8 to 12 hours.
 Reset behavior was reviewed.
 The AWS CLI Command Reference was located as an official AWS documentation resource.
 The HarborTech Operations Playbook requirements were reviewed.
+
 Operational Analysis
 
 The evidence shows that the AWS training environment is accessible and that the required onboarding checks can be completed. The us-west-2 Region is permitted by the Learner Lab rules. The inability to create IAM users or groups is an expected permission restriction and not evidence of a platform failure.
@@ -58,6 +59,7 @@ Week 1 showed me that cloud operations readiness is more than simply being able 
 Another important lesson was to separate verified findings from assumptions. If something does not work, I should first check the environment rules and documentation before deciding that there is a platform problem. This helps prevent unnecessary changes and supports better operational decisions.
 
 Professional Vocabulary
+
 Virtualization: A technology that allows physical computing resources to be represented and used as virtual resources.
 Evidence: Information that can be used to support and verify an observation or conclusion.
 Finding: A conclusion based on information or evidence that was reviewed.
