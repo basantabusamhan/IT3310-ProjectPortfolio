@@ -14,8 +14,7 @@ RCHN Patient Intake and Scheduling System Replacement
 
 ### Project Sponsor
 
-RCHN Project Sponsor
-
+Marcus Webb
 ### Business Need
 
 RCHN needs to replace its aging patient intake and scheduling system across six clinics. The current system may not support the organization’s needs as effectively as a newer system could, and workflows may differ between clinics. NovaTech should confirm the current system’s limitations and understand how staff use it at each location. Replacing the system can provide a more consistent and reliable foundation for intake and scheduling while supporting the needs of RCHN and its clinics.
