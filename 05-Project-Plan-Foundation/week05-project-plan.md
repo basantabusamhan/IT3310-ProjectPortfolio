@@ -1,8 +1,11 @@
 Project Plan Foundation: RCHN Patient Intake and Scheduling System
 
 Consultant: Basant Abusamhan
+
 Role: Associate Consultant, Project Manager, NovaTech Consulting
+
 Engagement: Riverside Community Health Network (RCHN)
+
 Date: September 24, 2026
 
 Scope
@@ -11,6 +14,7 @@ Patient intake workflow standardization across all six clinics
 Appointment scheduling system replacement
 Staff training for the new system at all six locations
 Initial rollout support for 90 days after launch
+
 Out of Scope, Phase One
 Patient-facing online scheduling portal
 Billing system integration with the new scheduling data
