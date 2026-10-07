@@ -78,5 +78,7 @@ One planning decision I made this week was to keep the patient-facing online sch
 Planning Foundation Synthesis
 
 The planning decisions from this week connect the project scope, objectives, constraints, and assumptions. The main focus of Phase One is to standardize patient intake workflows, replace the scheduling system, train staff, and provide initial rollout support across the six RCHN clinics. The out-of-scope items are being excluded to keep the project focused and manageable. The constraints show the conditions that need to be considered when planning the work, while the assumptions identify information that still needs to be confirmed. These decisions provide a foundation for future scheduling, resource, risk, cost, and communication planning.
+
+
 NovaTech Consulting | IT 3310 | Governors State University | Fall 2026
 
